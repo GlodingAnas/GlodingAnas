@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GlodingAnas
+- 👋 Hi, I’m Anas M.A
 - 👀 I’m interested in Frontend Engineers
 - 🌱 I’m currently learning ReactJS, NextJS, & React Native
 - 💞️ I’m looking to collaborate on Gloding Team
